@@ -8,3 +8,4 @@
 
 1. Fixed header
 2. Email send form
+3. Parallax effect 
